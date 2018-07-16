@@ -21,4 +21,3 @@ public class DemoApplication extends SpringBootServletInitializer {
         return application.sources(DemoApplication.class);
     }
 }
-//dev branch
